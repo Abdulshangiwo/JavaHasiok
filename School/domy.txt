@@ -1,0 +1,6 @@
+Chata-10000.00-1-Wies
+Willa-999999.99-4-Miasto
+DomekLetniskowy-25000.00-1-Wies
+Kamienica-500000.00-3-Miasto
+Stodola-15000.00-1-Wies
+Apartament-120000.00-1-Miasto

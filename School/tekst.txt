@@ -1,0 +1,3 @@
+To jest pierwsze zdanie testowe. To zdanie kończy się skrótem itp. 
+Czy to jest pytanie? Tak! Dr. Jan Kowalski mieszka przy ul. Polnej. 
+Mamy tutaj np. trzy zdania, ale kropki po skrótach nie powinny ich dzielić.
